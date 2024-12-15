@@ -31,7 +31,8 @@ que nos creara un archivo .war con el contenido dentro.
 lo subimos en archivos "WAR" y luego lo cargamos
 
 al subirlo aparece aquí: llamado /revshell
-![[subido.png]]
+
+![image](https://github.com/user-attachments/assets/304ea11c-12df-4f93-b46d-7a740e8b3ae9)
 
 >colocamos el terminal en escucha y presionamos el archivo y estamos dentro ya como root!
 ![[root.png]]
