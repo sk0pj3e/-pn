@@ -1,6 +1,7 @@
 
-![[nmap pn.png]]
-nmap: 8080
+![image](https://github.com/user-attachments/assets/a7e4dcf2-061c-491c-a491-39c07754b346)
+
+nmap: 8080 
 
 ---
 en la pagina: 172.17.0.2:8080 hay una  versión del de tomcat: # Apache Tomcat/9.0.88
