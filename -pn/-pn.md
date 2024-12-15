@@ -47,4 +47,6 @@ hacemos un "stty"
        - stty rows numero colums numero 
 
 y quedara así:
-![[root sup.png]]
+
+![image](https://github.com/user-attachments/assets/5636e904-0d74-46bf-b046-8fe35883d12c)
+
