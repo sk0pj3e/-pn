@@ -4,7 +4,7 @@ nmap: 8080
 
 ---
 en la pagina: 172.17.0.2:8080 hay una  versión del de tomcat: # Apache Tomcat/9.0.88
-como exploit a esa versión no encontré mucho, en la pagina hay un "manager apps"
+como exploit a esa versión no encontré mucho, pero en la pagina hay un "manager apps"
 
 ![image](https://github.com/user-attachments/assets/70c49eae-589a-4499-a86f-57ab5e1b3201)
 
