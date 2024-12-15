@@ -35,8 +35,8 @@ al subirlo aparece aquí: llamado /revshell
 ![image](https://github.com/user-attachments/assets/304ea11c-12df-4f93-b46d-7a740e8b3ae9)
 
 >colocamos el terminal en escucha y presionamos el archivo y estamos dentro ya como root!
-![Uploading image.png…]()
 
+![image](https://github.com/user-attachments/assets/1e3c043a-a457-4448-94f1-c44b1db2eeac)
 
 hacemos un "stty"
 
