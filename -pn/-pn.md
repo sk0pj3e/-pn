@@ -28,9 +28,6 @@ que nos creara un archivo .war con el contenido dentro.
 
 ![image](https://github.com/user-attachments/assets/59d9e8d0-98c2-4969-b196-740739bed25c)
 
-lo lanzamos y nos crea un:   revshell.war
-![[generado.png]]
-
 lo subimos en archivos "WAR" y luego lo cargamos
 
 al subirlo aparece aquí: llamado /revshell
